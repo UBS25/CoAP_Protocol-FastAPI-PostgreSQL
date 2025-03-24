@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+aiocoap
+asyncpg
+sqlalchemy
+pydantic
+psycopg2
